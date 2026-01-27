@@ -1,2 +1,0 @@
-# deepika-r
-python
